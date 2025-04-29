@@ -1,6 +1,7 @@
 package com.example.odev1firatatar.Odev1
 
     fun main() {
+        
         val sehir: String = "Adana"
         println("Hangi Şehir: $sehir")
 
